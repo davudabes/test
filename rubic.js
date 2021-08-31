@@ -1,4 +1,4 @@
-<script defer type="text/javascript">
+<script>
     // describe widget configuration and saving to a global variable for future use
     var configuration = {
         from: 'ETH',
