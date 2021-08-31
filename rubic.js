@@ -1,4 +1,3 @@
-<script>
     // describe widget configuration and saving to a global variable for future use
     var configuration = {
         from: 'ETH',
@@ -18,4 +17,3 @@
 
     // create widget
     rubicWidget.init(configuration);
-</script>
